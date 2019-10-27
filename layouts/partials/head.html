@@ -9,7 +9,7 @@
 {{ if (ne $.Site.Params.ThemeColor "orange") }}
   <link rel="stylesheet" href="{{ (printf "assets/%s.css" $.Site.Params.ThemeColor) | absURL }}">
 {{ else }}
-  <link rel="stylesheet" href="{{ "assets/orange.css" | absURL }">
+  <link rel="stylesheet" href="{{ "assets/orange.css" | absURL }}">
 {{ end }}
 
 <!-- Custom CSS to override theme properties (/static/style.css) -->
