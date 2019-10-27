@@ -1,10 +1,17 @@
-@import '../main.css';
-@import '../header.css';
-@import '../logo.css';
-@import '../pagination.css';
-@import '../post.css';
-@import '../syntax.css';
-@import '../variables.css';
+@import '../variables';
+
+@import '../font';
+@import '../buttons';
+
+@import '../header';
+@import '../logo';
+@import '../main';
+@import '../post';
+@import '../pagination';
+@import '../footer';
+
+@import '../prism';
+@import '../syntax';
 
 :root {
   --accent: #23B0FF;
