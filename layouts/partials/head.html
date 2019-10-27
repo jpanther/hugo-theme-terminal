@@ -6,7 +6,7 @@
 <link rel="canonical" href="{{ .Permalink }}" />
 
 <!-- Theme CSS -->
-{{ if (ne $.Site.Params.ThemeColor "orange") }}
+{{ if isset $.Site.Params.ThemeColor }}
   <link rel="stylesheet" href="{{ (printf "assets/%s.css" $.Site.Params.ThemeColor) | absURL }}">
 {{ else }}
   <link rel="stylesheet" href="{{ "assets/orange.css" | absURL }}">
