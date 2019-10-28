@@ -6,11 +6,7 @@
 <link rel="canonical" href="{{ .Permalink }}" />
 
 <!-- Theme CSS -->
-{{ if isset $.Site.Params "themeColor" }}
-  <link rel="stylesheet" href="{{ (printf "assets/%s.css" $.Site.Params.ThemeColor) | absURL }}">
-{{ else }}
-  <link rel="stylesheet" href="{{ "assets/orange.css" | absURL }}">
-{{ end }}
+<link rel="stylesheet" href="{{ with $.Site.Params.ThemeColor | default "orange" }}{{ printf "assets/%s.css" . | absURL }}{{ end }}">
 
 <!-- Custom CSS to override theme properties (/static/style.css) -->
 {{ if (fileExists "static/style.css") -}}
