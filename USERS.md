@@ -13,7 +13,18 @@
 - https://ayushkarn.me/ **Ayush Karn** (Student Developer)
 - https://ssgram.dev **Ramaseshan Parthasarathy** (Software Developer)
 - https://zaine.me **Amine Zaine** (Cloud Engineer)
+- https://notes.dmaitre.phyip3.dur.ac.uk/computing-club/ **Ryan Moodie** (Physics PhD student)
 - https://thecodecousins.com **Stanley Nguyen** (Software Engineer) & **Hoang Do** (Software & IoT Engineer)
+- https://schacherbauer.dev **Markus Schacherbauer** (Student Developer)
+- https://rinma.dev **Marvin Dalheimer** (Software Developer)
+- https://lunar.computer **Lunar Computer** (DevOps Engineer)
+- https://naxxfish.net **Chris Roberts** (Broadcast Systems Engineer)
+- https://security.jtang.dev **Jonathan Tang** (Student & Software Engineer)
+- https://andreacaravano.net **Andrea Caravano** (Student)
+- https://dawsonverboven.com/ **Dawson Verboven** (Student & Software Developer)
+- https://www.rockyourcode.com **Sophia Brandt** (tax officer and hobby coder)
+- https://qbunt.com **Jeremy Bunting** (Software Engineer)
+- https://smeik.org **Smeik** (Embedded Developer)
 
 <!--
 TEMPLATE:
@@ -21,5 +32,3 @@ TEMPLATE:
 - https://radoslawkoziel.pl **Radek Kozieł** (Software Designer and Developer)
 
 -->
-
-- [rinma.dev](https://rinma.dev) - **Marvin Dalheimer** (Software Developer)
